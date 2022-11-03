@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokedrxReactJs/static/css/main.3a001190.css",
+    "main.js": "/pokedrxReactJs/static/js/main.82aa2656.js",
+    "index.html": "/pokedrxReactJs/index.html",
+    "main.3a001190.css.map": "/pokedrxReactJs/static/css/main.3a001190.css.map",
+    "main.82aa2656.js.map": "/pokedrxReactJs/static/js/main.82aa2656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a001190.css",
+    "static/js/main.82aa2656.js"
+  ]
+}
